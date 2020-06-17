@@ -1,0 +1,10 @@
+{
+  "name": "cahiers-api",
+  "description": "GraphQL server for Cahiers",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/sunquan1991/cahiers",
+  "author": "sunquan1991",
+  "license": "MIT",
+  "private": true
+}
